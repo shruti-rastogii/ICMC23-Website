@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ICMC23-Website/static/css/main.5073db55.css",
-    "main.js": "/ICMC23-Website/static/js/main.6cb5be9b.js",
-    "static/js/787.5e887912.chunk.js": "/ICMC23-Website/static/js/787.5e887912.chunk.js",
-    "static/media/bits-pilani.png": "/ICMC23-Website/static/media/bits-pilani.0ad2caa498949580a334.png",
-    "index.html": "/ICMC23-Website/index.html",
-    "main.5073db55.css.map": "/ICMC23-Website/static/css/main.5073db55.css.map",
-    "main.6cb5be9b.js.map": "/ICMC23-Website/static/js/main.6cb5be9b.js.map",
-    "787.5e887912.chunk.js.map": "/ICMC23-Website/static/js/787.5e887912.chunk.js.map"
+    "main.css": "/static/css/main.5073db55.css",
+    "main.js": "/static/js/main.014a7c97.js",
+    "static/js/787.5e887912.chunk.js": "/static/js/787.5e887912.chunk.js",
+    "static/media/bits-pilani.png": "/static/media/bits-pilani.0ad2caa498949580a334.png",
+    "index.html": "/index.html",
+    "main.5073db55.css.map": "/static/css/main.5073db55.css.map",
+    "main.014a7c97.js.map": "/static/js/main.014a7c97.js.map",
+    "787.5e887912.chunk.js.map": "/static/js/787.5e887912.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5073db55.css",
-    "static/js/main.6cb5be9b.js"
+    "static/js/main.014a7c97.js"
   ]
 }
