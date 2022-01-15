@@ -1,16 +1,23 @@
 {
   "files": {
-    "main.css": "/ICMC23-Website/static/css/main.b108b0e4.css",
-    "main.js": "/ICMC23-Website/static/js/main.02a85234.js",
+    "main.css": "/ICMC23-Website/static/css/main.e375d6d6.css",
+    "main.js": "/ICMC23-Website/static/js/main.9d0d627b.js",
     "static/js/787.5e887912.chunk.js": "/ICMC23-Website/static/js/787.5e887912.chunk.js",
-    "static/media/bits-pilani.png": "/ICMC23-Website/static/media/bits-pilani.0ad2caa498949580a334.png",
+    "static/media/bits-dome.png": "/ICMC23-Website/static/media/bits-dome.18b1c7971973958f9327.png",
+    "static/media/bits-logo.png": "/ICMC23-Website/static/media/bits-logo.8f2a8390e6dae3209201.png",
+    "static/media/bits-audi.jpeg": "/ICMC23-Website/static/media/bits-audi.94e505ef3f6cebe37150.jpeg",
+    "static/media/samplediv.jpg": "/ICMC23-Website/static/media/samplediv.a5e4c9fd5cc188d77430.jpg",
+    "static/media/bits-d-classroom.jpg": "/ICMC23-Website/static/media/bits-d-classroom.abd75848258e54b64ba7.jpg",
+    "static/media/momos.jpg": "/ICMC23-Website/static/media/momos.3c1acd73cb11d95b81dc.jpg",
+    "static/media/ferrari.jpg": "/ICMC23-Website/static/media/ferrari.766b41eabcfdad453591.jpg",
+    "static/media/whitenigga.jpg": "/ICMC23-Website/static/media/whitenigga.0e4389ff4ad9b6a32a37.jpg",
     "index.html": "/ICMC23-Website/index.html",
-    "main.b108b0e4.css.map": "/ICMC23-Website/static/css/main.b108b0e4.css.map",
-    "main.02a85234.js.map": "/ICMC23-Website/static/js/main.02a85234.js.map",
+    "main.e375d6d6.css.map": "/ICMC23-Website/static/css/main.e375d6d6.css.map",
+    "main.9d0d627b.js.map": "/ICMC23-Website/static/js/main.9d0d627b.js.map",
     "787.5e887912.chunk.js.map": "/ICMC23-Website/static/js/787.5e887912.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b108b0e4.css",
-    "static/js/main.02a85234.js"
+    "static/css/main.e375d6d6.css",
+    "static/js/main.9d0d627b.js"
   ]
 }
