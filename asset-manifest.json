@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ICMC23-Website/static/css/main.e375d6d6.css",
-    "main.js": "/ICMC23-Website/static/js/main.10112439.js",
+    "main.css": "/ICMC23-Website/static/css/main.75a21015.css",
+    "main.js": "/ICMC23-Website/static/js/main.c7b8be37.js",
     "static/js/787.5e887912.chunk.js": "/ICMC23-Website/static/js/787.5e887912.chunk.js",
     "static/media/bits-dome.png": "/ICMC23-Website/static/media/bits-dome.18b1c7971973958f9327.png",
     "static/media/bits-logo.png": "/ICMC23-Website/static/media/bits-logo.8f2a8390e6dae3209201.png",
@@ -12,12 +12,12 @@
     "static/media/ferrari.jpg": "/ICMC23-Website/static/media/ferrari.766b41eabcfdad453591.jpg",
     "static/media/whitenigga.jpg": "/ICMC23-Website/static/media/whitenigga.0e4389ff4ad9b6a32a37.jpg",
     "index.html": "/ICMC23-Website/index.html",
-    "main.e375d6d6.css.map": "/ICMC23-Website/static/css/main.e375d6d6.css.map",
-    "main.10112439.js.map": "/ICMC23-Website/static/js/main.10112439.js.map",
+    "main.75a21015.css.map": "/ICMC23-Website/static/css/main.75a21015.css.map",
+    "main.c7b8be37.js.map": "/ICMC23-Website/static/js/main.c7b8be37.js.map",
     "787.5e887912.chunk.js.map": "/ICMC23-Website/static/js/787.5e887912.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e375d6d6.css",
-    "static/js/main.10112439.js"
+    "static/css/main.75a21015.css",
+    "static/js/main.c7b8be37.js"
   ]
 }
