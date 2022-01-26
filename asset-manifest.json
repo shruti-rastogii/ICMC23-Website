@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ICMC23-Website/static/css/main.41df1c69.css",
-    "main.js": "/ICMC23-Website/static/js/main.63238c19.js",
+    "main.js": "/ICMC23-Website/static/js/main.ac2d545f.js",
     "static/js/787.5e887912.chunk.js": "/ICMC23-Website/static/js/787.5e887912.chunk.js",
     "static/media/about-top.png": "/ICMC23-Website/static/media/about-top.135f4b36b698f3746482.png",
     "static/media/bits-dome.png": "/ICMC23-Website/static/media/bits-dome.18b1c7971973958f9327.png",
@@ -18,11 +18,11 @@
     "static/media/whitenigga.jpg": "/ICMC23-Website/static/media/whitenigga.0e4389ff4ad9b6a32a37.jpg",
     "index.html": "/ICMC23-Website/index.html",
     "main.41df1c69.css.map": "/ICMC23-Website/static/css/main.41df1c69.css.map",
-    "main.63238c19.js.map": "/ICMC23-Website/static/js/main.63238c19.js.map",
+    "main.ac2d545f.js.map": "/ICMC23-Website/static/js/main.ac2d545f.js.map",
     "787.5e887912.chunk.js.map": "/ICMC23-Website/static/js/787.5e887912.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.41df1c69.css",
-    "static/js/main.63238c19.js"
+    "static/js/main.ac2d545f.js"
   ]
 }
